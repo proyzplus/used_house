@@ -294,10 +294,12 @@ li:hover {
   color: bisque;
 }
 .input_select {
-  width: 100%;
+  width: 72%;
   height: 220px;
   border: 1px solid lightgray;
+  z-index: 99;
   background-color: #ffffff;
+  position: absolute;
 }
 .select_list input {
   width: 100%;

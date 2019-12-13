@@ -75,7 +75,7 @@
         <div class="tonight">
           <h3>日期</h3>
           <el-date-picker
-            style="margin-bottom: 12px;"
+            style="margin-bottom: 12px;width: 240px;"
             v-model="value1"
             type="daterange"
             range-separator="至"
